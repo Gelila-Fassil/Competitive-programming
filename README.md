@@ -18,12 +18,18 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0045-jump-game-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0045-jump-game-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0044-wildcard-matching) |
+## Array
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
