@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
