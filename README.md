@@ -45,6 +45,7 @@
 | [0051-n-queens](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0056-merge-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |
