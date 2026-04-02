@@ -69,6 +69,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0146-lru-cache) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,8 +78,17 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0146-lru-cache](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0146-lru-cache) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
