@@ -33,6 +33,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0050-powx-n) |
 ## Array
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0146-lru-cache) |
 ## Two Pointers
 |  |
