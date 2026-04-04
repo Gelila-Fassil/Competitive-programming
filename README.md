@@ -20,6 +20,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0053-maximum-subarray) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0047-permutations-ii) |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0042-trapping-rain-water) |
 ## Design
 |  |
 | ------- |
@@ -111,4 +114,12 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
