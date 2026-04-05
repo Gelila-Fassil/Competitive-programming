@@ -13,6 +13,7 @@
 | [0043-multiply-strings](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
 ## Simulation
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0045-jump-game-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0055-jump-game) |
+| [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
 ## Greedy
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [0053-maximum-subarray](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0056-merge-intervals) |
+| [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Backtracking
@@ -75,6 +78,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0146-lru-cache) |
 ## Divide and Conquer
 |  |
@@ -122,4 +126,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0042-trapping-rain-water) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
