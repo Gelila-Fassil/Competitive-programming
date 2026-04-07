@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0049-group-anagrams) |
@@ -127,6 +128,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0042-trapping-rain-water) |
 | [2390-removing-stars-from-a-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
