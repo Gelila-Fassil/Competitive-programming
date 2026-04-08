@@ -62,6 +62,7 @@
 | [0120-triangle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
 | [0496-next-greater-element-i](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0739-daily-temperatures) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Backtracking
@@ -133,12 +134,14 @@
 | [0020-valid-parentheses](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0739-daily-temperatures) |
 ## Trie
 |  |
 | ------- |
