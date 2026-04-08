@@ -61,6 +61,7 @@
 | [0056-merge-intervals](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0056-merge-intervals) |
 | [0120-triangle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
+| [0496-next-greater-element-i](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0496-next-greater-element-i) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Backtracking
@@ -85,6 +86,7 @@
 | [0049-group-anagrams](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0146-lru-cache) |
+| [0496-next-greater-element-i](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,11 +132,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0496-next-greater-element-i) |
 | [2390-removing-stars-from-a-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0496-next-greater-element-i) |
 ## Trie
 |  |
 | ------- |
