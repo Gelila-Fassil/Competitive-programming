@@ -14,12 +14,14 @@
 | [0043-multiply-strings](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0068-text-justification) |
 | [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
 | [2390-removing-stars-from-a-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0043-multiply-strings) |
+| [0068-text-justification](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0068-text-justification) |
 | [2390-removing-stars-from-a-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
@@ -61,6 +63,7 @@
 | [0053-maximum-subarray](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0056-merge-intervals) |
+| [0068-text-justification](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0068-text-justification) |
 | [0120-triangle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
 | [0496-next-greater-element-i](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0496-next-greater-element-i) |
