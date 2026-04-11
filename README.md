@@ -130,15 +130,18 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0110-balanced-binary-tree) |
 ## Stack
@@ -167,5 +170,6 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
