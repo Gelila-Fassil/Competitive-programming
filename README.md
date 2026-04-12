@@ -92,6 +92,7 @@
 | [0041-first-missing-positive](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0146-lru-cache) |
@@ -111,6 +112,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0203-remove-linked-list-elements) |
