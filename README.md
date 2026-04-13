@@ -64,6 +64,7 @@
 | [0055-jump-game](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0068-text-justification) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
@@ -159,6 +160,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0739-daily-temperatures) |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0739-daily-temperatures) |
 ## Trie
