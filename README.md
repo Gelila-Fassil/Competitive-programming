@@ -119,6 +119,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0234-palindrome-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0725-split-linked-list-in-parts) |
 ## Two Pointers
 |  |
 | ------- |
