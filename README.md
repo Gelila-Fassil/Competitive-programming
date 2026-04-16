@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -192,4 +194,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0110-balanced-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
