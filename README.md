@@ -10,6 +10,7 @@
 | [0326-power-of-three](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0326-power-of-three](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
