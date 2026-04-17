@@ -35,6 +35,7 @@
 | [0045-jump-game-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0055-jump-game) |
+| [0119-pascals-triangle-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0509-fibonacci-number) |
@@ -75,6 +76,7 @@
 | [0068-text-justification](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0119-pascals-triangle-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
 | [0496-next-greater-element-i](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0496-next-greater-element-i) |
