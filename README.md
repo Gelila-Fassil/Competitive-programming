@@ -22,6 +22,7 @@
 | [0126-word-ladder-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -115,6 +116,7 @@
 | [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0146-lru-cache) |
+| [0387-first-unique-character-in-a-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
@@ -212,4 +214,12 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0342-power-of-four) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
