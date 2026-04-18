@@ -20,6 +20,7 @@
 | [0049-group-anagrams](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0068-text-justification) |
 | [0126-word-ladder-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
@@ -41,6 +42,7 @@
 | [0118-pascals-triangle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0509-fibonacci-number) |
 ## Greedy
@@ -98,6 +100,7 @@
 | [0051-n-queens](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0131-palindrome-partitioning) |
 ## Sorting
 |  |
 | ------- |
