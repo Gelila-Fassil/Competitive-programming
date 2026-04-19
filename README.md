@@ -83,6 +83,7 @@
 | [0068-text-justification](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0120-triangle) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | [0100-same-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -183,6 +186,7 @@
 | [0100-same-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0110-balanced-binary-tree) |
 ## Stack
 |  |
@@ -236,4 +240,8 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0130-surrounded-regions) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
