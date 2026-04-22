@@ -246,6 +246,11 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0278-first-bad-version](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
