@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0509-fibonacci-number) |
@@ -250,6 +251,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0278-first-bad-version](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0704-binary-search) |
