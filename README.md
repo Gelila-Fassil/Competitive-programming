@@ -94,6 +94,7 @@
 | [0120-triangle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
+| [0162-find-peak-element](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0162-find-peak-element) |
 | [0496-next-greater-element-i](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0739-daily-temperatures) |
@@ -255,6 +256,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1011-capacity-to-ship-packages-within-d-days) |
