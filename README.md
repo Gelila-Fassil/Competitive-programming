@@ -25,12 +25,14 @@
 | [0344-reverse-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0068-text-justification) |
 | [2390-removing-stars-from-a-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/3174-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [0496-next-greater-element-i](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
