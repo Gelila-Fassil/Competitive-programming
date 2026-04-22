@@ -20,6 +20,5 @@ class Solution:
                 if leftbias:
                     high = mid - 1
                 else:
-                    # Keep looking right to find the VERY last occurrence
                     low = mid + 1
         return i
