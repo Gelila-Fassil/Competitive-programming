@@ -92,6 +92,7 @@
 | [0496-next-greater-element-i](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0739-daily-temperatures) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Backtracking
@@ -246,4 +247,5 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0704-binary-search](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
