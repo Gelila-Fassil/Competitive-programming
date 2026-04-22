@@ -20,6 +20,7 @@
 | [0044-wildcard-matching](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0071-simplify-path) |
 | [0126-word-ladder-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
@@ -199,6 +200,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0496-next-greater-element-i) |
