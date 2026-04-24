@@ -34,6 +34,7 @@
 | [0043-multiply-strings](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0735-asteroid-collision) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/3174-clear-digits) |
 ## Dynamic Programming
@@ -109,6 +110,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/2073-time-needed-to-buy-tickets) |
 ## Backtracking
 |  |
 | ------- |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
 |  |
 | ------- |
