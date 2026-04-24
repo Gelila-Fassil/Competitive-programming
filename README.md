@@ -270,6 +270,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0704-binary-search) |
@@ -280,4 +281,5 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
