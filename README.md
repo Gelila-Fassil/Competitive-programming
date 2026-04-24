@@ -97,6 +97,7 @@
 | [0130-surrounded-regions](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0162-find-peak-element) |
+| [0475-heaters](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0735-asteroid-collision) |
@@ -121,6 +122,7 @@
 | [0047-permutations-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0056-merge-intervals) |
+| [0475-heaters](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0475-heaters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Hash Table
@@ -170,6 +172,7 @@
 | [0141-linked-list-cycle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0344-reverse-string) |
+| [0475-heaters](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0475-heaters) |
 ## Design
 |  |
 | ------- |
@@ -265,6 +268,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0278-first-bad-version) |
+| [0475-heaters](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0875-koko-eating-bananas) |
