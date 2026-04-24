@@ -106,6 +106,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Backtracking
@@ -277,6 +278,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Interactive
 |  |
 | ------- |
