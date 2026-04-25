@@ -21,6 +21,7 @@
 | [0049-group-anagrams](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0071-simplify-path) |
+| [0087-scramble-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0087-scramble-string) |
 | [0126-word-ladder-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0139-word-break) |
@@ -45,6 +46,7 @@
 | [0045-jump-game-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0055-jump-game) |
+| [0087-scramble-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0120-triangle) |
