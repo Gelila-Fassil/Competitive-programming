@@ -46,6 +46,7 @@
 | [0045-jump-game-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0119-pascals-triangle-ii) |
@@ -92,6 +93,7 @@
 | [0056-merge-intervals](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0118-pascals-triangle) |
@@ -218,6 +220,7 @@
 | [0042-trapping-rain-water](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0735-asteroid-collision) |
@@ -229,6 +232,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0739-daily-temperatures) |
 ## Trie
@@ -266,6 +270,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0130-surrounded-regions) |
 ## Binary Search Tree
 |  |
