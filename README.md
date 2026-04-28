@@ -198,6 +198,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -213,6 +214,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0144-binary-tree-preorder-traversal) |
 ## Stack
 |  |
 | ------- |
@@ -221,6 +223,7 @@
 | [0071-simplify-path](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0735-asteroid-collision) |
@@ -250,6 +253,7 @@
 | [0100-same-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0144-binary-tree-preorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
