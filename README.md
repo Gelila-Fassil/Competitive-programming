@@ -202,6 +202,7 @@
 | [0110-balanced-binary-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 | [0110-balanced-binary-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0700-search-in-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -300,6 +302,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0475-heaters) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0875-koko-eating-bananas) |
