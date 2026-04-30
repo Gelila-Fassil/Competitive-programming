@@ -112,6 +112,7 @@
 | [0875-koko-eating-bananas](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/2073-time-needed-to-buy-tickets) |
@@ -132,6 +133,7 @@
 | [0056-merge-intervals](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0056-merge-intervals) |
 | [0436-find-right-interval](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0475-heaters) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Hash Table
@@ -311,6 +313,7 @@
 | [0875-koko-eating-bananas](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Gelila-Fassil/Competitive-programming/tree/master/1552-magnetic-force-between-two-balls) |
 ## Interactive
 |  |
 | ------- |
